@@ -8,15 +8,10 @@
 
 
 - 🔭 I’m working on **Projects with Flutter and NodeJS**
-
 - 🌱 I’m also learning **JavaScript, C++, Ruby, Linux**
-
 - 💬 You can ask me about **Fitness and bodybuilding**
-
 - 📫 How to reach me **ayocoding12@gmail.com**
-
 - ⚡ Fun fact **I'm into ethical hacking and cybersecurity 
-
 - 🔭 I'm a graphics designer 
  
  ## 🔗 Links:
