@@ -1,5 +1,5 @@
 <h1 align="center">itsayopapi Github Profile</h1>
-<h2 align="center"> Software Engineer At ALX Africa</h2>
+<h2 align="center"> Computer science|Full Stack Software Engineering | Front-end</h2>
 <h3 align="center">An Experienced HTML and CSS Developer</h3>
 <img align= "right" alt="CodingGuy" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
