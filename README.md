@@ -3,7 +3,7 @@
 <h3 align="center">An Experienced HTML and CSS Developer</h3>
 <img align= "right" alt="CodingGuy" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsayopapi&label=Profile%20views&color=0e75b6&style=flat" alt="itsayopapi" </p>
+<p align="left" img src="https://komarev.com/ghpvc/?username=itsayopapi&label=Profile%20views&color=0e75b6&style=flat" alt="itsayopapi"</p>
  
 - 🔭 I’m working on **Projects with Flutter and NodeJS**
 - 🌱 I’m also learning **JavaScript, C++, Ruby, Linux**
