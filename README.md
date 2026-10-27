@@ -13,7 +13,8 @@
 - 🔭 I'm a graphics designer 
  
  ## 🔗 Links:
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/ayomidequdus)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]
+(https://www.linkedin.com/in/ayomidequdus)
 
 [![medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/ayocoding12)
 
